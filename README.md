@@ -2,8 +2,6 @@
 <h3 align="center">A web developer from Russia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udamir" alt="udamir" /> </p>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **magx, mosx**
 - 👯 I’m looking to collaborate on **magx-examples**
 - 🤔 I’m looking for help with **testing magx and mosx**
